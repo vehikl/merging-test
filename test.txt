@@ -1,7 +1,11 @@
 Title
 
-Some awesome description
+Some amazing description
 
 Some list with items:
+- item1
+- item2
+
+Another list with items:
 - item1
 - item2
