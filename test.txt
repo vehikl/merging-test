@@ -5,9 +5,9 @@ Some amazing description
 Some list with items:
 - item1
 - item2
+- item3
 - item4
 
 Some list with items:
-- item1
 - item2
 - item3
