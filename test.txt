@@ -9,5 +9,6 @@ Some list with items:
 - item4
 
 Some list with items:
+- item1
 - item2
 - item3
