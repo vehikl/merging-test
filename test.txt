@@ -10,5 +10,6 @@ Some list with items:
 
 Some list with items:
 - item1
+- item3
 - item2
 - item4
